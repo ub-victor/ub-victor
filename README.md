@@ -20,7 +20,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## ⚙️ Technologies & Tools  
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code, Trello, Figma ...  
 
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ub-victor&show_icons=true&theme=radical)  
