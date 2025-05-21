@@ -24,3 +24,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ub-victor&show_icons=true&theme=radical)  
+
+## 🚀 Most Used Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ub-victor&layout=compact&theme=radical)
