@@ -23,7 +23,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **Tools:** Git, GitHub, VS Code, Trello, Figma ...
 
 ## 🌟 Portfolio Website
-  🔗   [My Portfolio](https://my-portfolio-website-show-skills.netlify.app/)
+  - 🔗 [My Portfolio](https://my-portfolio-website-show-skills.netlify.app/)
   A curated collection of my top projects and development skills, built with Angular and Tailwind CSS.  
   Discover my work, learn about my approach, and feel free to get in touch!
 
