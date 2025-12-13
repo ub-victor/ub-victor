@@ -19,8 +19,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## ⚙️ Technologies & Tools  
 - **Frontend:** React js, Tailwindcss, Typescript...  
-- **Backend:** Node.js, Express  
-- **Tools:** Git, GitHub, VS Code, Trello, Figma, Gimp   ...
+- **Backend:** Node.js, Express, Python  
+- **Tools:** Git, GitHub, VS Code, Trello, Figma, Gimp, Docker   ...
 
 ## 🌟 Portfolio Website
   - 🔗 [**My Portfolio**](https://my-portfolio-website-show-skills.netlify.app/)
