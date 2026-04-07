@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **Tools:** Git, GitHub, VS Code, Trello, Figma, Gimp, Docker   ...
 
 ## 🌟 Portfolio Website
-  - 🔗 [**My Portfolio**](https://victor-portfolio-site.up.railway.app/)
+  - 🔗 [**My Portfolio**](https://victor-portfolio-vert.vercel.app/)
   A curated collection of my top projects and development skills, built with Angular and Tailwind CSS.  
   Discover my work, learn about my approach, and feel free to get in touch!
 
