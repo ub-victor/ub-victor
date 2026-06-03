@@ -90,7 +90,7 @@ Developed and delivered:
 
 * ☕ Azone Coffee Shop Platform
 * 🍽️ Kimirogo Restaurant System
-* 🔐 AUA Login System
+* 🔐 AUA Management System
 * 🌦️ Weather Application
 
 ---
