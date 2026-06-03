@@ -43,7 +43,7 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 
 ---
 
-## 💻 Technologies & ⚙️ Tools  
+## 💻 Technologies &  ⚙️ Tools  
 
 ### Frontend
 
@@ -66,7 +66,7 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,gimp,trello,jira,notion," />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,notion" />
 </p>
 
 ---
