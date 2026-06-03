@@ -70,10 +70,109 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 </p>
 
 ---
+## 🏆 Professional Highlights
+
+### Lead Software Engineer — Quanta Ltd
+
+* Led software engineering initiatives
+* Designed scalable architectures and REST APIs
+* Built production-ready applications using:
+
+  * React
+  * TypeScript
+  * Node.js
+  * PostgreSQL
+* Mentored developers and promoted clean coding practices
+
+### Freelance Full-Stack Engineer
+
+Developed and delivered:
+
+* ☕ Azone Coffee Shop Platform
+* 🍽️ Kimirogo Restaurant System
+* 🔐 AUA Login System
+* 🌦️ Weather Application
+
+---
+
+## 🎓 Certifications & Learning
+
+* AWS AI & ML Scholars Program
+* JavaScript Essentials 1 and 2 provided by CISCO ACADEMY 
+* Advanced Network Operation — Internet Society
+* CodeAlpha Frontend Development Internship
+* CodeAlpha Web Development Internship
+* More that 4 Certificates of English
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ub-victor&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ub-victor&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ub-victor&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ub-victor&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ub-victor&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌍 Languages
+
+* 🇬🇧 English (Fluent)
+* 🇫🇷 French (Fluent)
+* 🇨🇩 Lingala
+* 🇨🇩 Swahili
+* 🇷🇼 Kinyarwanda
 
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ub-victor&show_icons=true&theme=radical)  
+---
 
-## 🚀 Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ub-victor&layout=compact&theme=radical)
+## 🎯 2026 Goals
+
+* Master System Design
+* Build SaaS Products
+* Contribute More to Open Source
+* Deepen Cloud & AI Engineering Skills
+* Grow as a Software Architect
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building technology that solves real-world problems."*
+
+</div>
