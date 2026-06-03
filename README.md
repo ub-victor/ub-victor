@@ -44,12 +44,6 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 ---
 
 ## 💻 Technologies & ⚙️ Tools  
-- **Frontend:** React js, Angula Tailwindcss, Typescript...  
-- **Backend:** Node.js, Express, Python, PHP, Java...
-- **Database:** Postgresql, MongoDb, Oracle, My Sql  
-- **Tools:** Git, GitHub, VS Code, Trello, Figma, Gimp, Docker...
-
----
 
 ### Frontend
 
@@ -60,7 +54,7 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java" />
 </p>
 
 ### Databases
@@ -72,7 +66,7 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 ### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,gimp,trello,jira,notion," />
 </p>
 
 ---
