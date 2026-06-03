@@ -21,7 +21,8 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 * 👯 Open to collaborating on impactful software projects
 * 🌍 Open to Remote Opportunities & International Relocation
 * 💡 Interested in Web Development, AI, Open Source, and Software Architecture
-* ⚡ Fun Fact: *Dreamer + Builder = Me*
+* ⚡ Fun Fact: _**Try and fail but never fail to try**_
+**🌟 Dreamer and Doer ✨ 📸 Capturing life's moments one photo at a time 📷 🌿 Lover of nature, travel, and good vibe**
 
 ---
 
