@@ -92,7 +92,11 @@ Developed and delivered:
 * ☕ Azone Coffee Shop Platform
 * 🍽️ Kimirogo Restaurant System
 * 🔐 AUA Management System
-* 🌦️ Weather Application
+* 🌦️ Integretion of Weather in Bus Application
+* Netlify
+* Open source Kigali Site
+* React Rwanda Website
+* **ect** 
 
 ---
 
