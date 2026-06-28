@@ -40,6 +40,8 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 <a href="https://victor-portfolio-vert.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://victor-portfolio-backend-nsel.onrender.com/api/cv/69d552e50b6766613678d520/download-file?inline=1" target="_blank"> <img src="https://img.shields.io/badge/📄%20View%20My%20CV-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/> </a>
 </p>
 
 ---
