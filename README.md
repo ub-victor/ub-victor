@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Software Engineer | React • TypeScript • Node.js • Python • PHP • Java
+### Full-Stack Software Engineer | React • TypeScript • Node.js • Python • PHP • Java • Spring Boot
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript+Developer;Building+Scalable+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
 
