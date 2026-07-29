@@ -93,6 +93,7 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 
 Developed and delivered:
 
+* 📆 Leave Management System
 * ☕ Azone Coffee Shop Platform
 * 🍽️ Kimirogo Restaurant System
 * 🔐 AUA Management System
