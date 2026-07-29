@@ -100,7 +100,6 @@ Developed and delivered:
 * 🌦️ Integretion of Weather in Bus Application
 * Netlify
 * Open source Kigali Site
-* React Rwanda Website
 * **ect** 
 
 ---
