@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 👩‍💻 About Me
 
 I'm a **Full-Stack Software Engineer** passionate about building scalable, user-focused applications using modern web technologies.
