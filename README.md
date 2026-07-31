@@ -12,6 +12,7 @@
 
 ## 👩‍💻 About Me
 
+
 I'm a **Full-Stack Software Engineer** passionate about building scalable, user-focused applications using modern web technologies.
 
 I specialize in creating responsive frontends, secure backend APIs, and efficient database architectures while following clean code and software engineering best practices.
