@@ -162,7 +162,6 @@ Developed and delivered:
 * 🇬🇧 English (Fluent)
 * 🇫🇷 French (Fluent)
 * 🇨🇩 Lingala
-* 🇨🇩 Swahili
 * 🇷🇼 Kinyarwanda
 
 
