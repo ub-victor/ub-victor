@@ -93,11 +93,11 @@ I specialize in creating responsive frontends, secure backend APIs, and efficien
 
 Developed and delivered:
 
-* 📆 Leave Management System
+* 📆 Leave Management System For RRA
 * ☕ Azone Coffee Shop Platform
-* 🍽️ Kimirogo Restaurant System
+* 🍽️ Kimirogo Restaurant Management System
 * 🔐 AUA Management System
-* 🌦️ Integretion of Weather in Bus Application
+* Cotribute to Wiki System
 * Netlify
 * Open source Kigali Site
 * **ect** 
