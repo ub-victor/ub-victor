@@ -164,8 +164,7 @@ Developed and delivered:
 * 🇫🇷 French (Fluent)
 * 🇨🇩 Swahili
 * 🇨🇩 Lingala
-* 🇷🇼 Kinyarwanda
-* 
+* 🇷🇼 Kinyarwanda 
 
 ---
 
