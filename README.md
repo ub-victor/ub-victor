@@ -1,6 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ushindi Victoire
 
-
 <div align="center">
 
 ### Full-Stack Software Engineer | React • TypeScript • Node.js • Python • PHP • Java • Spring Boot
