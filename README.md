@@ -175,7 +175,6 @@ Developed and delivered:
 * Contribute More to Open Source
 * Deepen Cloud & AI Engineering Skills
 * Grow as a Software Architect
-* Tiki CMR translation (at Wiki Suite)
 
 ---
 
