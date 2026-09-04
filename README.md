@@ -100,6 +100,7 @@ Developed and delivered:
 * Cotribute to Wiki System
 * Netlify
 * Open source Kigali Site
+* Contribute to different Open Source Kigali Project
 * * Tiki Suite CMR/ CMS Group translation (at Wiki Suite)
 * **ect** 
 
