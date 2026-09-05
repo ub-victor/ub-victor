@@ -102,6 +102,7 @@ Developed and delivered:
 * Open source Kigali Site
 * Contribute to different Open Source Kigali Project
 * Tiki Suite CMR/ CMS Group translation (at Wiki Suite)
+* DockSight
 * **ect** 
 
 
