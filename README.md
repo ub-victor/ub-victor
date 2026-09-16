@@ -17,7 +17,7 @@ I'm a **Full-Stack Software Engineer** passionate about building scalable, user-
 I specialize in creating responsive frontends, secure backend APIs, and efficient database architectures while following clean code and software engineering best practices.
 
 * 🔭 Currently building modern full-stack applications
-* 🌱 Learning **Next.js, Advanced System Design, Cloud Technologies & AI 📚**
+* 🌱 Learning **Machine Learning, Advanced System Design, Cloud Technologies & AI 📚**
 * 👯 Open to collaborating on impactful software projects
 * 🌍 Open to Remote Opportunities & International Relocation
 * 💡 Interested in Web Development, AI, Open Source, and Software Architecture
